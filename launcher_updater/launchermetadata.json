@@ -1,0 +1,13 @@
+﻿{
+    "launcher":  {
+                     "builds":  [
+                                    {
+                                        "url":  "https://grimotz.github.io/grimot-launcher-install/launcher_updater/launcher/package.json",
+                                        "architecture":  "x86_64",
+                                        "versionurl":  "https://grimotz.github.io/grimot-launcher-install/launcher_updater/launcher/package.json.version",
+                                        "os":  "windows"
+                                    }
+                                ],
+                     "name":  "LAUNCHER"
+                 }
+}

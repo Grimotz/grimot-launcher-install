@@ -1,0 +1,20 @@
+{
+	"clientVersion": "15.00.001",
+	"launcherVersion": "1.0",
+	"replaceFolders": true,
+	"replaceFolderName": [
+		{
+			"name": "assets"
+		},
+		{
+			"name": "storeimages"
+		},
+		{
+			"name": "bin"
+		}
+	],
+	"clientFolder": "Grim-OT-main",
+	"newClientUrl" : "https://github.com/Grimotz/Grim-OT/archive/refs/heads/main.zip",
+	"clientExecutable": "client.exe",
+	"clientName": "GrimOT"
+}

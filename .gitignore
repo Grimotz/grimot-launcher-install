@@ -1,0 +1,9 @@
+# Ficheiros gerados localmente - não subir para o repo
+*.user
+*.suo
+.vs/
+bin/
+obj/
+
+# Logs
+*.log
