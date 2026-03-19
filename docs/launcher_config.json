@@ -1,5 +1,5 @@
 {
-	"clientVersion": "15.03.020",
+	"clientVersion": "15.11.001",
 	"launcherVersion": "2.0.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -14,7 +14,7 @@
 		}
 	],
 	"clientFolder": "Grim-OT-main",
-	"newClientUrl" : "https://storage.googleapis.com/grimot/Grim-OT-main.zip",
+	"newClientUrl" : "https://storage.googleapis.com/grimot/client/Grim-OT-main.zip",
 	"clientExecutable": "client.exe",
 	"clientName": "GrimOT"
 }
